@@ -1,0 +1,6 @@
+{
+  "name": "Reward Offers - United States",
+  "description": "A landing page for reward offers in the United States, identical to rewardspot.live.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
